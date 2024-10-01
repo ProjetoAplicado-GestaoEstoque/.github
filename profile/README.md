@@ -67,6 +67,15 @@ erDiagram
     PROJECTS ||--o{ CUSTOMER : "Desenvolvido para"
 ```
 
+### Tecnologias Utilizadas
+
+- **Frontend:** TypeScript, Next.js, Node.js, React.
+- **Backend:** GoLang, ServiceWeaver, SQLC, Fiber e Boneless.
+- **Banco de Dados:** MySQL e AWS S3
+- **Outros:** Docker Compose
+
+
+
 ### Colaboradores
 
 <div style="display: flex; flex-direction: row; align-items: center; width: 100%; gap: 10px; flex-wrap: wrap;">
