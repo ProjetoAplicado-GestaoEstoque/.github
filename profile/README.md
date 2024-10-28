@@ -60,7 +60,7 @@ erDiagram
         int Quantidade
     }
 
-    CUSTOMER ||--o{ SALE : "Realiza"
+    PROJECTS ||--o{ SALE : "Realiza a compra"
     SALE ||--|{ ITEM : "Contém"
     PROJECTS ||--o{ USER : "Gerencia"
     SALE ||--o{ SUPPLIER : "Adquirido de"
